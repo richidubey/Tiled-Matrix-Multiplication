@@ -23,7 +23,7 @@ Run the following command to start the program. You can choose to specify the wi
 
 ## Sample Runs
 
-Output on a system with AMD EPYC 7502 32-Core Processor and NVIDIA A30 with 25GB memory
+Output on a system with AMD EPYC 7502 32-Core Processor and NVIDIA A30 with 24 gigabytes (GB) of GPU memory with a bandwidth of 933 (GB/s):
 
 ```
 $ ./a.out -m 200
